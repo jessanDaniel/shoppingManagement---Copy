@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background-image: url("./images/img-noise-361x370.png");
+  font-family: "Trebuchet MS", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
